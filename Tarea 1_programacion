@@ -1,0 +1,9 @@
+#Realiza un progroma que pida 3 calificaciones y calcule el promedio
+
+cosa 1=int(input ("digite un numero: "))
+cosa2=int(input ("digite un numero: "))
+cosa2=int(input ("digite un numero: "))
+
+prom= (cosa 1+cosa2 y cosa 3) / 3
+
+print (prom)
